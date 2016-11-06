@@ -1,0 +1,20 @@
+a {
+    padding: 15px;
+}
+
+label{
+    display: inline-block;
+    width: 128px;
+    text-align: left;
+   /* float: left;
+    clear: left;*/
+}
+
+input {
+  /*display: inline-block;*/
+  /*float: left;*/
+}
+
+input[placeholder]] {
+	color: #c5c9c9;
+}
